@@ -1,3 +1,5 @@
+// Кореневий layout (лише <html>, <body>, підключення шрифтів)
+
 import type { Metadata } from 'next';
 import { inter, manrope } from './fonts';
 import './globals.css';
